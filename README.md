@@ -1,4 +1,4 @@
-iOS7-Augmented-Reality-ToolKit
+[Unmaintained] iOS7-Augmented-Reality-ToolKit
 ==============================
 
 Toolkit that provides basic functionality for an augmented reality view with geolocations
